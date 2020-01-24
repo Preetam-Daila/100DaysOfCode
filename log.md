@@ -33,4 +33,6 @@
 ### Day 3: 22 Jan, 2020
 **Today's Progress**: Done only two problems. Didn't get much time. Read about dynamic arrays and linked list.
 [C++ 2D arrays](https://github.com/preetamdaila/100DaysOfCode/blob/master/gfg_practice_problems/c_2d_arrays.cpp), <br>
-[C++ 2D arrays - Set 2](https://github.com/preetamdaila/100DaysOfCode/blob/master/gfg_practice_problems/c_2d_arrays_set_2.cpp)
+[C++ 2D arrays - Set 2](https://github.com/preetamdaila/100DaysOfCode/blob/master/gfg_practice_problems/c_2d_arrays_set_2.cpp)<br>
+
+**Due to continues unplanned travel and no access to computer I am going to reset this chalange and start from Day0 in few days.**
